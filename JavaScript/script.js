@@ -1,4 +1,4 @@
- /* acordion */
+ // acordion 
  let accordionFunction = document.getElementsByClassName("section6-button");
 
  
@@ -13,3 +13,6 @@
      }
    });
  }
+
+
+
